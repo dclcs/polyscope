@@ -4,8 +4,8 @@
 	branch = master
 [submodule "deps/imgui/imgui"]
 	path = deps/imgui/imgui
-	url = https://github.com.cnpmjs.org/ocornut/imgui.git
+	url = https://github.com.cnpmjs.org/dclcs/imgui.git
 	branch = master
 [submodule "deps/happly"]
 	path = deps/happly
-	url = https://github.com.cnpmjs.org/nmwsharp/happly.git
+	url = https://github.com.cnpmjs.org/dclcs/happly.git
